@@ -123,7 +123,7 @@ public class UserRepository {
     }
 
     public boolean clearFile() {
-
+    //todo realize cleaning file
 
         return true;
     }
