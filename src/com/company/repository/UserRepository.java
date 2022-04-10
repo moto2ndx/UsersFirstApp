@@ -124,7 +124,7 @@ public class UserRepository {
 
     public boolean clearFile() {
     //todo realize cleaning file
-    //todo for 1 day
+
         return true;
     }
 }
